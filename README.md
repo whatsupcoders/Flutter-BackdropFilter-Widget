@@ -1,16 +1,36 @@
-# flutter_backdrop_app
+# Flutter BackdropFilter Widget
 
-A new Flutter application.
+Flutter Tutorial - Flutter BackdropFilter Widget
+In this project you will learn how to use the Flutter BackdropFilter Widget in your flutter application. Also, I have included a demo page.
 
+Flutter Tutorial - Flutter BackdropFilter Widget Video series can be watched here https://youtu.be/vIjyphym6Ck
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For more details, about ClipRRect  you can watch my video 
 
-A few resources to get you started if this is your first Flutter project:
+https://www.youtube.com/watch?v=nqC5NdpAUeE
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1546993846.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1546994073.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-BackdropFilter-Widget/blob/master/assets/Screenshot_1547008344.png" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+FOLLOW ME HERE:
+
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
